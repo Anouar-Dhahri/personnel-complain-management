@@ -28,4 +28,4 @@ you should install expo-cli
 
 > and thats it, the app is running
 
-[Demo](https://mega.nz/file/CEglgCjZ#GHLCZYz5QrbJPvZcwy4BvXo174CvgPd3dwpKEOegOD8)
+[Demo](https://mega.nz/file/aUQxDIzK#KtdLFFB2YBYzY0G5ffEYkCI978lzYezyTahblPdSc9c)
